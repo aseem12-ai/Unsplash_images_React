@@ -80,7 +80,7 @@ In order to use the Unsplash API to fetch images for your application, you will 
 
 
 
-link===https://api.unsplash.com/search/photos?client_id=L53taakw__KOf-RKuhFQcKdewMY--TFAV3_lSkWVcl0&query=office
+
 
 - register an app
 - authorization (hint : public authentication)
